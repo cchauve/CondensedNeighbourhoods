@@ -1,6 +1,6 @@
 # CondensedNeighbourhoods
 
-Code and documents for the paper "Refined upper bounds on the size of the condensed neighbourhood of sequences" submitted to <a href="http://www.stringology.org/event/">PSC 2021</a>.
+Code and documents for the paper "Refined upper bounds on the size of the condensed neighbourhood of sequences" published in the proceedings of <a href="http://www.stringology.org/event/">PSC 2021</a>.
 
 `SFU_MSc_project_France_PaquetNadeau_2017.pdf`: MSc project of France Paquet-Nadeau.
 
